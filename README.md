@@ -48,6 +48,10 @@ Git Clone this and the Petful server from gtihub,
 npm install both,
 run the server and run the client. 
 
+## Links
+* [Client Repo](https://github.com/Mark-The-Dev/petful-client)
+* [Server / API repo](https://github.com/Mark-The-Dev/petful-server)
+* [Live Link](https://petful-client-brd5zlrzl.vercel.app/)
 
 
 ## Contributor
